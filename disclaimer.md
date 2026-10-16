@@ -1,46 +1,58 @@
-# NobitaBot — Disclaimer
+# NobitaBot Disclaimer
 
-**Effective date:** 16 October 2026  
-**Last updated:** 16 October 2026
+**Effective date:** 16 October 2026
 
-## 1. General Information
+NobitaBot is a community utility designed to provide Discord server-management and esports-related workflows. Use of the Bot is at your own discretion and risk.
 
-NobitaBot is a community-focused Discord bot that may provide moderation, staff management, registration, scrim, tournament, and other server tools. Features and availability may vary.
+## No guarantee of service
 
-The Bot is provided on an “as available” basis. Its operators do not guarantee that every feature will always be available, uninterrupted, accurate, or free of errors.
+The Bot is provided on an “as is” and “as available” basis to the extent permitted by law. We do not guarantee that every command, integration, database operation, result, or feature will always be available, accurate, uninterrupted, or error-free. Data can be affected by configuration errors, platform outages, software bugs, or infrastructure failures.
 
-## 2. Server and Organizer Responsibility
+## Administrator responsibility
 
-Server owners, administrators, moderators, and tournament organizers are responsible for their own configuration and decisions. This includes role and permission setup, moderation actions, team eligibility, registration approvals, tournament results, and dispute resolution.
+Server owners and administrators are responsible for configuring permissions, reviewing automated actions, and ensuring that their use of the Bot is suitable for their community. Do not rely solely on an automated result for consequential moderation, tournament, eligibility, or dispute decisions. Review important records and results before acting on them.
 
-Users should verify important information with the relevant server staff or event organizer rather than relying solely on automated output.
+## Third-party platforms
 
-## 3. Third-Party Services
+NobitaBot relies on third-party services, including Discord and infrastructure providers. Their availability, policies, and actions are outside the Bot operator's control. NobitaBot is not an official Discord product unless explicitly stated otherwise.
 
-NobitaBot may rely on Discord, hosting providers, databases, or other third-party services. Outages, policy changes, API limits, or technical issues affecting those services may affect the Bot. Those services are governed by their own terms and policies.
+## Esports and game-related features
 
-## 4. BGMI and KRAFTON Notice
+Tournament, scrim, registration, point-table, and related features are organizational tools. They do not guarantee tournament outcomes, eligibility, fairness, prize delivery, or acceptance by any game publisher or tournament organizer. Organizers remain responsible for their rules and final decisions. Game names and trademarks belong to their respective owners.
 
-Unless expressly stated otherwise, NobitaBot is an independent community project and is **not affiliated with, endorsed by, sponsored by, or operated by KRAFTON, Inc. or the creators or publishers of Battlegrounds Mobile India (BGMI)**.
+## Limitation
 
-BGMI, KRAFTON, and related names, logos, and marks belong to their respective owners. Any mention of BGMI is for identification and community-use purposes only. Do not use third-party names or logos in a way that falsely suggests official endorsement.
+To the extent permitted by applicable law, the Bot operator is not responsible for indirect loss, lost data, missed registrations, disputed results, or consequences arising from use of or inability to use the Bot. Nothing in this disclaimer excludes liability that cannot legally be excluded.
 
-## 5. No Guarantee of Outcomes
+## Contact
 
-NobitaBot may help automate community workflows, but it does not guarantee tournament outcomes, fair play, registration acceptance, moderation decisions, uninterrupted record availability, or the accuracy of user-submitted information.
+For support, join the [NobitaBot Support Server](https://discord.gg/9JhMExCBAF).
+# NobitaBot Disclaimer
 
-## 6. Limitation of Responsibility
+**Effective date:** 16 October 2026
 
-To the extent permitted by applicable law, the Bot operators are not responsible for indirect losses or consequences arising from use of the Bot, reliance on its output, user-submitted information, server configuration, or third-party service interruptions. Nothing in this disclaimer excludes responsibility that cannot legally be excluded.
+NobitaBot is a community utility designed to provide Discord server-management and esports-related workflows. Use of the Bot is at your own discretion and risk.
 
-## 7. External Links
+## No guarantee of service
 
-Links to third-party websites or services are provided for convenience. NobitaBot does not control and is not responsible for the content, availability, or privacy practices of external services.
+The Bot is provided on an “as is” and “as available” basis to the extent permitted by law. We do not guarantee that every command, integration, database operation, result, or feature will always be available, accurate, uninterrupted, or error-free. Data can be affected by configuration errors, platform outages, software bugs, or infrastructure failures.
 
-## 8. Contact
+## Administrator responsibility
 
-For questions about this disclaimer, use the verified support contact listed in the NobitaBot Support Policy.
+Server owners and administrators are responsible for configuring permissions, reviewing automated actions, and ensuring that their use of the Bot is suitable for their community. Do not rely solely on an automated result for consequential moderation, tournament, eligibility, or dispute decisions. Review important records and results before acting on them.
 
----
+## Third-party platforms
 
-This disclaimer is informational and is not legal advice. Review it for your circumstances and applicable laws before publication.
+NobitaBot relies on third-party services, including Discord and infrastructure providers. Their availability, policies, and actions are outside the Bot operator's control. NobitaBot is not an official Discord product unless explicitly stated otherwise.
+
+## Esports and game-related features
+
+Tournament, scrim, registration, point-table, and related features are organizational tools. They do not guarantee tournament outcomes, eligibility, fairness, prize delivery, or acceptance by any game publisher or tournament organizer. Organizers remain responsible for their rules and final decisions. Game names and trademarks belong to their respective owners.
+
+## Limitation
+
+To the extent permitted by applicable law, the Bot operator is not responsible for indirect loss, lost data, missed registrations, disputed results, or consequences arising from use of or inability to use the Bot. Nothing in this disclaimer excludes liability that cannot legally be excluded.
+
+## Contact
+
+For support, join the [NobitaBot Support Server](https://discord.gg/9JhMExCBAF).
