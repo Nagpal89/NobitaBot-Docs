@@ -1,68 +1,52 @@
-# NobitaBot — Privacy Policy
+# NobitaBot Privacy Policy
 
-**Effective date:** 16 October 2026  
-**Last updated:** 16 October 2026
+**Effective date:** 16 October 2026
 
-This Privacy Policy explains how NobitaBot (“the Bot”) may handle information when used on Discord. The actual information processed depends on which features are enabled and how each server is configured.
+This policy explains, in general terms, how NobitaBot may handle information when you or your Discord server use the Bot. The exact information processed depends on which features server administrators enable.
 
-> **Before publishing:** Review this policy against the Bot’s current code, database tables, logs, hosting configuration, and any external APIs. Remove or revise any statement that does not match the actual implementation. Add a verified privacy contact below.
+## 1. Information the Bot may process
 
-## 1. Information That May Be Processed
+To provide its features, the Bot may process or store:
 
-Depending on enabled features and user interactions, the Bot may process or store information such as:
+- Discord user, server, channel, and role IDs needed to identify members and apply server settings.
+- Usernames, display names, and submitted team or player details when used in registration, tournament, scrim, staff, or related workflows.
+- Moderation and staff-management records, such as warnings, actions, attendance, leave requests, or activity records, when those features are used.
+- Configuration and operational records needed to remember server settings and feature state.
+- Messages, attachments, or images that a user explicitly submits to a Bot feature, such as a registration form or supported screenshot-processing workflow.
+- Basic technical information contained in service logs when needed to diagnose errors, protect the Bot, and maintain reliability.
 
-- Discord user, server, channel, and role IDs needed to operate commands and permissions.
-- Usernames, display names, team names, game IDs, and other details submitted through forms or registration workflows.
-- Moderation records, warnings, staff attendance or leave records, recruitment information, scrim registrations, tournament registrations, and submitted results, where those features are enabled.
-- Bot configuration, command settings, and operational or error logs.
-- Content a user intentionally submits to the Bot, such as messages, screenshots, or files required by a feature.
+The Bot is not intended to collect passwords or payment-card information.
 
-This list describes possible categories, not a claim that every category is collected in every server. Verify the live implementation before publication.
+## 2. How information is used
 
-## 2. How Information May Be Used
+Information may be used to operate requested features, maintain server configuration, process registrations and results, enforce administrator-configured moderation workflows, prevent abuse, troubleshoot failures, and improve reliability.
 
-Information may be used to:
+## 3. Storage and retention
 
-- Provide commands and requested Bot features.
-- Enforce server permissions and configuration.
-- Manage moderation, staff workflows, registrations, scrims, tournaments, and related records.
-- Prevent abuse, investigate errors, maintain security, and troubleshoot issues.
-- Respond to support requests and comply with applicable legal obligations.
+The Bot may store feature data in its configured database so that information persists across restarts. Retention depends on the feature, server configuration, operational needs, and applicable requirements. Data may remain until it is deleted through an available feature, removed by an authorized administrator, or deleted as part of maintenance. Do not assume that removing the Bot automatically deletes every previously stored record or backup.
 
-## 3. Storage and Retention
+## 4. Access and sharing
 
-Information may be stored in the Bot’s configured database or hosting environment. Retention depends on the feature, server configuration, and operational needs. Some records may remain until they are deleted by an authorized server administrator or the Bot operator, or until they are removed as part of maintenance.
+Information may be accessible to the server administrators who operate the relevant features and to authorized operators who maintain the Bot and its infrastructure. Information may be processed by hosting, database, or other infrastructure providers as needed to run the service. We do not intend to sell personal information.
 
-**Do not publish this section until you have confirmed the actual database, retention practices, backups, and deletion behavior.** Do not promise automatic deletion unless it is implemented.
+The Bot operates within Discord; Discord separately processes data under its own terms and privacy policy. This policy does not replace Discord's policies.
 
-## 4. Sharing and Third-Party Services
+## 5. Your choices
 
-The Bot uses Discord to provide its functionality and may depend on third-party hosting, database, or API providers. Information may be processed by those providers as necessary to operate the relevant features and subject to their own terms and privacy policies. Do not claim that no information is shared until the Bot’s integrations and providers have been reviewed.
+Server administrators should enable only the features they need and avoid collecting unnecessary personal information. If you want a record corrected or removed, contact the server administrators who control that feature or request assistance in the [NobitaBot Support Server](https://discord.gg/9JhMExCBAF). A request may require verification and may be limited by technical, safety, legal, or operational requirements.
 
-NobitaBot should not sell personal information. If any additional sharing or analytics are used, describe them accurately here before publication.
+## 6. Children and sensitive information
 
-## 5. Security
+Do not use the Bot to collect sensitive personal information unnecessarily. Server owners are responsible for ensuring that their use of the Bot is appropriate for their community and complies with applicable rules and laws.
 
-Reasonable technical and organizational measures should be used to protect stored information and access credentials. No internet-connected service can guarantee absolute security. Bot tokens, API keys, database credentials, and other secrets should never be published in the public repository.
+## 7. Security
 
-## 6. Your Choices and Requests
+Reasonable safeguards may be used to protect stored information, but no online service or storage system can be guaranteed completely secure. Do not send secrets, passwords, or information that a feature does not require.
 
-Depending on the server and the applicable law, you may be able to ask the server’s administrators or the Bot operator about information associated with your use of the Bot, or request correction or deletion. Some records may need to be retained for security, dispute resolution, legal compliance, or legitimate operational reasons.
+## 8. Changes to this Policy
 
-Add a verified contact method for privacy requests before publishing this policy.
-
-## 7. Children and Age Requirements
-
-Use of Discord and the Bot is subject to Discord’s age requirements and applicable law. The Bot is not intended to override those requirements.
-
-## 8. Changes to This Policy
-
-This policy may be updated as the Bot’s features or data practices change. The “Last updated” date above indicates the latest revision. Material changes should be communicated through an appropriate official channel.
+This policy may be updated when Bot features or data practices change. The latest version will be published in this repository.
 
 ## 9. Contact
 
-**Privacy contact:** Add your verified support-server invite or contact address here before publishing.
-
----
-
-This policy should be read together with the NobitaBot Terms and Conditions.
+For privacy questions or data-related requests, join the [NobitaBot Support Server](https://discord.gg/9JhMExCBAF).
