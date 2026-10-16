@@ -53,7 +53,8 @@ These Terms may be updated from time to time. The “Last updated” date above 
 
 ## 11. Contact
 
-For support or questions about these Terms, use the contact details provided in the official NobitaBot support channels. Replace this section with your verified support-server invite or contact address before publishing.
+For help or questions about these Terms, join the [NobitaBot Support Server](https://discord.gg/9JhMExCBAF).
+
 
 ---
 
